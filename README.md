@@ -28,3 +28,4 @@ Köprülü Kanyon, Antalya, Türkiye
 
 *Doğanın kalbinde, maceranın merkezinde!*
 # Test: Automatic deployment verification
+# Test: Git author metadata fix
