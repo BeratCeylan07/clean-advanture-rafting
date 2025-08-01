@@ -30,3 +30,4 @@ Köprülü Kanyon, Antalya, Türkiye
 # Test: Automatic deployment verification
 # Test: Git author metadata fix
 # Test: Correct email configuration
+# Test: Cursor Pro deployment verification
