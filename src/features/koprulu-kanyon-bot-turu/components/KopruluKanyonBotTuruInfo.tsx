@@ -18,7 +18,7 @@ const heroImages = [
 const infoCards = [
   {
     title: 'Kanyonun Derinliklerinde Yolculuk',
-    image: '/images/koprulu-kanyon-bot-turu/koprulu-kanyon-bot-tur-1.png',
+    image: '/images/koprulu-kanyon-bot-turu/koprulu-kanyon-bot-tur-1.jpeg',
     content: (
       <>
         <b>Köprülü Kanyon&apos;un muhteşem manzaraları eşliğinde, sakin sularında unutulmaz bir bot turu deneyimi yaşayın.</b>
@@ -27,7 +27,7 @@ const infoCards = [
   },
   {
     title: 'Tarihi Köprüler ve Antik Kalıntılar',
-    image: '/images/koprulu-kanyon-bot-turu/koprulu-kanyon-bot-tur-2.png',
+    image: '/images/koprulu-kanyon-bot-turu/koprulu-kanyon-bot-tur-2.jpeg',
     content: (
       <>
         <b>2200 yıllık Selge Antik Kenti&apos;nin yanı başında, Roma döneminden kalma köprüler ve su kemerleri arasından geçin.</b>
@@ -36,7 +36,7 @@ const infoCards = [
   },
   {
     title: 'Güvenli ve Konforlu Botlar',
-    image: '/images/koprulu-kanyon-bot-turu/koprulu-kanyon-bot-tur-3.png',
+    image: '/images/koprulu-kanyon-bot-turu/koprulu-kanyon-bot-tur-3.jpeg',
     content: (
       <>
         <b>Modern ve güvenli botlarımızla, deneyimli kaptanlar eşliğinde huzurlu bir kanyon turu yapın.</b>

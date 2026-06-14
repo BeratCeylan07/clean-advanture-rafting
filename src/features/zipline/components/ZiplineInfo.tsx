@@ -30,6 +30,8 @@ import PageHeader from '@/components/PageHeader';
 const heroImages = [
   '/images/zipline/zipline-2.png',
   '/images/zipline/zipline-3.png',
+  '/images/zipline/zipline-5.jpeg',
+  '/images/zipline/zipline-6.jpeg',
 ];
 
 // --- Zipline Öne Çıkanları ---
