@@ -15,7 +15,7 @@ export default function Hero() {
         justifyContent: 'center',
         minHeight: '60vh',
         textAlign: 'center',
-        backgroundImage: 'url(/images/rafting-hero.jpg)',
+        backgroundImage: 'url(/images/macerayahazirmisin.jpeg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         color: '#fff',
