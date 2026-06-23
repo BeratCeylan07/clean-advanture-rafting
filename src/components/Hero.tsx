@@ -16,7 +16,6 @@ export default function Hero() {
         minHeight: '60vh',
         textAlign: 'center',
         backgroundImage: 'url(/images/rafting-hero.jpg)',
-        // SEO için background image alt text eklenemez, ancak CSS ile optimize edilmiş
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         color: '#fff',
